@@ -45,14 +45,6 @@ HTML
 }
 </script>
 ```
-This code tells search engines the basic information about your recipe, including its name, description, author, image, cooking time, ingredients, and instructions. It also adds relevant keywords for better search visibility.
-
-**4. Remember:**
-  - Use schema markup that's relevant to your content type (e.g., recipes, events, products).
-  - Validate your schema markup using Google's Rich Results Test tool.
-  - Test your implementation to ensure it doesn't affect your website's performance.
-
-**Bonus Tip:** Explore Webflow's built-in SEO settings to easily add basic schema markup for your website pages.
 
 # Need Help?
 Need custom [Webflow Development](https://epyc.in/)?
